@@ -163,8 +163,3 @@ Jest is configured; you can add more tests under `backend/tests`.
 - Database is **SQLite**, so data is stored in `database/prisma/dev.db`.
 - To reset the DB, you can delete `dev.db` and re‑run the Prisma migrate command.
 - For production, you can swap the Prisma datasource to Postgres or another supported DB and create new migrations.
-
-
-# expense-tracker
-# expense-tracker
-# expense-tracker
