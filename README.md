@@ -19,7 +19,7 @@ Modern expense tracking app with:
 ## 2. Clone the Repo
 
 ```bash
-git clone <YOUR_REPO_URL> expense-tracker
+git clone git@github.com:nehachitodkar/expense-tracker.git expense-tracker
 cd expense-tracker
 ```
 
