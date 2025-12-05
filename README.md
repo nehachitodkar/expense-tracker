@@ -1,4 +1,4 @@
-## Expense Tracker – Full‑Stack App
+## Expense Tracker - Full‑Stack App
 
 Modern expense tracking app with:
 
